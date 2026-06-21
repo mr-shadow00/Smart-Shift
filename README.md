@@ -11,12 +11,13 @@ Smart Shift will automatically sync your data to all of your devices
 1. make folders and move the files there
 
    /DATA/AppData/smart-shift/ ← public/, server.js, package.json, package-lock.json
+
    /DATA/AppData/smart-shift/ ← data/
 
-2. use the [Smart Shift compose.yaml] on App Store → "Install a Customized App" → Docker Compose tab
+3. use the [Smart Shift compose.yaml] on App Store → "Install a Customized App" → Docker Compose tab
 
-3. w8
+4. w8
 
-4. enjoy
+5. enjoy
 
 # Shadow out
