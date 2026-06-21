@@ -2,7 +2,7 @@
 
 Smart Shift is a minimal self hosted docker app for zimaos and casaos
 
-It tracking your and others work flow
+It trackesyour and others work flow
 
 Smart Shift will automatically sync your data to all of your devices
 
