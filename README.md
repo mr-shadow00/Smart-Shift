@@ -24,6 +24,7 @@ Smart Shift will automatically sync your data to all of your devices
 
 ## Screenshots
 
+Pc
 <p align="center">
   <img src="Screenshots/pc1.png" width="400">
    <img src="Screenshots/pc2.png" width="400">
@@ -31,6 +32,7 @@ Smart Shift will automatically sync your data to all of your devices
    <img src="Screenshots/pc4.png" width="400">
  </p>
 
+Phone
 <p align="center">
   <img src="Screenshots/phone1.png" width="200">
    <img src="Screenshots/phone2.png" width="200">
